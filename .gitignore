@@ -5,4 +5,7 @@ __pycache__/
 metrics.json
 run_lab_metrics.py
 patch_notebook.py
+run_lab5_metrics.py
+patch_lab5.py
+lab5_metrics.json
 *.png

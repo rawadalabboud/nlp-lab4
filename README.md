@@ -7,13 +7,13 @@ Completed lab on document classification, sentiment analysis, and topic modeling
 
 ## Contents
 
-- `lab4/lab4_Part2_Classification_Sentiment_Topics.ipynb` - completed notebook
+- `lab4/lab4_Part2_Classification_Sentiment_Topics.ipynb` - Lab 4 Part 2
+- `lab5/lab5_DeepLearning_LLMs_NLP.ipynb` - Lab 5 (Deep Learning & LLMs)
 
-## Topics covered
+## Lab 5 topics
 
-- AG News classification (TF-IDF + Logistic Regression)
-- Legal document classification (BoW + Linear SVM)
-- Amazon review sentiment (TF-IDF + Naive Bayes)
-- Twitter emotion/sentiment (character n-grams + Logistic Regression)
-- ArXiv topic modeling (LDA)
-- Legal contract topic modeling (NMF)
+- RNN character-level language model
+- LSTM sentiment analysis (IMDB)
+- GRU news classification (AG News)
+- Transformer NER (BERT)
+- LLM text generation (Mistral API)
