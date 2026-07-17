@@ -9,3 +9,4 @@ run_lab5_metrics.py
 patch_lab5.py
 lab5_metrics.json
 *.png
+.env
